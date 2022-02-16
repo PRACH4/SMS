@@ -1,7 +1,8 @@
 import requests, random, datetime, sys, time, argparse, os, colorama
 os.system("clear")
 banner = """\033[36m
-อยู่เฉยๆอย่าดิ้น  
+เขารักคุณนะเชื่อฉันคิดใหม่เถอะค่ะ 
+ทำแบบนั้นมันเห็นแก่ตัวมาเลยนะค่ะ  
   BY:SCK SpamerSMS
 """
 print(banner)
